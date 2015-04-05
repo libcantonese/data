@@ -11,3 +11,5 @@ input method editors.
 
 `scraper.py` scrapes downloaded data and save the result to several txt files,
 it depends on `lxml` and `beautifulsoup4` PyPI package.
+
+All scripts are written for Python 2.7.
