@@ -2,6 +2,7 @@
 ## Introduction
 [中英對照香港學校中文學習基礎字詞](http://www.edbchinese.hk/lexlist_en/)
 contains Chinese vocabulary taught in Hong Kong primary schools.
+The vocabulary included is exactly same as 香港小學學習字詞表.
 
 We think it might provides a good data source for related vocabulary feature in
 input method editors.
