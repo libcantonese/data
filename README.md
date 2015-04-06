@@ -11,4 +11,4 @@ https://raw.githubusercontent.com/chewing/libchewing/master/data/tsi.src
 https://github.com/g0v/moedict-data
 
 ### 香港小學學習字詞表
-Check the `edbchinese` folder
+Check the [edbchinese](edbchinese/) folder
