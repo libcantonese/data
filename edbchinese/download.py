@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import urllib
 
 N = 4762
